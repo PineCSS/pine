@@ -27,4 +27,4 @@ Lisans Detayları -> ( EN )  [open-source MIT license](https://github.com/PineCS
 ## Geliştirmen
 Author: [Savaş Can ALTUN](http://savascanaltun.com.tr)
 
-Logo Desing: [Doğukan Batal](http://dogukanbatal.com)
+Logo Design : [Doğukan Batal](http://dogukanbatal.com)
