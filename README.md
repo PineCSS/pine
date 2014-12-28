@@ -1,4 +1,4 @@
-![PineCSS](http://pinecss.com/images/pine.png "PineCSS")
+![PineCSS](http://pinecss.com/images/pine.png "PineCSS Logo")
 # [PineCSS](http://pinecss.com)
 Kolay kullanımlı responsive destekli CSS Kütüphanesi.
 
