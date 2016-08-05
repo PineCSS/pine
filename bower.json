@@ -1,10 +1,12 @@
 {
-  "name": "pine",
+  "name": "pinecss",
   "homepage": "https://github.com/PineCSS/pine",
   "description": "Responsive CSS Framework",
   "main": "css/pine.min.css",
   "keywords": [
-    "responsive"
+    "responsive",
+    "css",
+    "framework",
   ],
   "license": "MIT",
   "private": true,
