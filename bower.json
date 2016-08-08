@@ -1,12 +1,15 @@
 {
   "name": "pinecss",
-  "homepage": "https://github.com/PineCSS/pine",
+  "version": "1.1",
+  "homepage": "http://pinecss.com/",
   "description": "Responsive CSS Framework",
   "main": "css/pine.min.css",
   "keywords": [
     "responsive",
     "css",
     "framework"
+  ],"authors": [
+    "Savaş Can ALTUN <savascanaltun@gmail.com> (http://savascanaltun.com.tr/)"
   ],
   "license": "MIT",
   "ignore": [
