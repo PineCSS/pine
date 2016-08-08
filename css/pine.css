@@ -1,6 +1,6 @@
 /*
-* pineCSS v1.0
-* Copyright 2014, Savaş Can ALTUN < savascanaltun@gmail.com >
+* pineCSS v1.1
+* Copyright 2014, Savaş Can ALTUN <savascanaltun@gmail.com >
 * github.com/pineCSS/pine
 * http://pinecss.com
 */
@@ -271,6 +271,12 @@ input[type="button"]:focus {
     border-color: #888;
     outline: 0;
 }
+.button:disabled{
+     border: 1px solid #E3E3E3;
+    color: #888;
+    cursor: not-allowed;
+}
+
 /* Button Primary */
 
 .button.button-primary,
@@ -295,6 +301,11 @@ input[type="button"].button-primary:focus {
     color: #FFF;
     background-color: #1EAEDB;
     border-color: #1EAEDB;
+}
+.button.button-primary:disabled{
+    background-color: #72cbe6;
+    border-color: #72cbe6;
+    cursor: not-allowed;
 }
 /* Button Danger */
 
@@ -321,6 +332,11 @@ input[type="button"].button-danger:focus {
     background-color: #cc002e;
     border-color: #cc002e;
 }
+.button.button-danger:disabled{
+    background-color: #f34f4f;
+    border-color: #f34f4f;
+    cursor: not-allowed;
+}
 /* Button Warning */
 
 .button.button-warning,
@@ -345,6 +361,11 @@ input[type="button"].button-warning:focus {
     color: #FFF;
     background-color: #ff7518;
     border-color: #ff7518;
+}
+.button.button-warning:disabled{
+    background-color: #fd8534;
+    border-color: #fd8534;
+    cursor: not-allowed;
 }
 /* Button Success */
 
@@ -371,6 +392,11 @@ input[type="button"].button-success:focus {
     background-color: #2f8912;
     border-color: #2f8912;
 }
+.button.button-success:disabled{
+    background-color: #5bbd3b;
+    border-color: #5bbd3b;
+    cursor: not-allowed;
+}
 /* Button İnfo */
 
 .button.button-info,
@@ -396,6 +422,11 @@ input[type="button"].button-info:focus {
     background-color: #7e3f9d;
     border-color: #7e3f9d;
 }
+.button.button-info:disabled{
+    background-color: #a773c1;
+    border-color: #a773c1;
+    cursor: not-allowed;
+}
 /* Forms
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 
@@ -403,6 +434,8 @@ input[type="email"],
 input[type="search"],
 input[type="text"],
 input[type="tel"],
+input[type="date"],
+input[type="color"],
 input[type="url"],
 input[type="file"],
 input[type="password"],
@@ -420,6 +453,8 @@ input[type="email"],
 input[type="search"],
 input[type="text"],
 input[type="tel"],
+input[type="date"],
+input[type="color"],
 input[type="url"],
 input[type="file"],
 input[type="password"],
@@ -437,6 +472,8 @@ input[type="email"]:focus,
 input[type="search"]:focus,
 input[type="text"]:focus,
 input[type="tel"]:focus,
+input[type="date"]:focus,
+input[type="color"]:focus,
 input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
