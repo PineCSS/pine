@@ -9,12 +9,22 @@ Hemen başlamak için <http://pinecss.com> adresindeki dökümantasyon kısmına
 ## Hemen Başla
 Sayfanıza alttaki şekilde pine'ı dahil ede bilirsiniz.
 ``` html
-<link rel="stylesheet" href="http://pinecss.com/v/1.1/pine.css"/>
+<link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.css"/>
 ```
 Daha hızlı bir pine için sıkıştırılmışını terci edebilirsiniz.
 ``` html
-<link rel="stylesheet" href="http://pinecss.com/v/1.1/pine.min.css"/>
+<link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.min.css"/>
 ```
+
+Javascript Kütüphanesini altta ki şekilde adhil edebilirsiniz.
+``` html
+<link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.js"/>
+```
+Daha hızlı bir pine için sıkıştırılmışını terci edebilirsiniz.
+``` html
+<link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.min.js"/>
+```
+Not : Javascript kütüphanesi dahil etmeden önce jQuery kütüphanesini dahil etmeniz gerekir.
 Bower ile yükleme
 ```
 bower install pinecss
