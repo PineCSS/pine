@@ -38,6 +38,9 @@ Pine/
 └── css/
     └── pine.css ( Pine dosyası)
     └── pine.min.css ( Küçültülmüş Pine Dosyası )
+└── js/
+    └── pine.js ( PineJS dosyası)
+    └── pine.min.js ( Küçültülmüş PineJS Dosyası )
 ```
 ## License
 Lisans Detayları -> ( EN )  [open-source MIT license](https://github.com/PineCSS/pine/blob/master/LICENSE).
