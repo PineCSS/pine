@@ -4,6 +4,7 @@ Kolay kullanımlı responsive destekli CSS Kütüphanesi.
 
 Hemen başlamak için <http://pinecss.com> adresindeki dökümantasyon kısmına göz ata bilirsiniz
 
+[News 1.1](https://github.com/PineCSS/pine/blob/master/news.md)
 
 ## Hemen Başla
 Sayfanıza alttaki şekilde pine'ı dahil ede bilirsiniz.
@@ -28,7 +29,10 @@ Bower ile yükleme
 ```
 bower install pinecss
 ```
-
+Composer ile yükleme
+```
+composer require pine-css/pine
+```
 ### İndirdiklerim ne ?
 indirdiğiniz dosyaların ağaç görünümü alttadır ve detayları yanlarında yazmaktadır.
 ```
