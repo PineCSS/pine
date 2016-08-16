@@ -1,0 +1,27 @@
+{
+  "name": "pineCSS/pine",
+  "description": "Responsive CSS Framework ( PineCSS )",
+  "keywords": [
+    "css",
+    "js",
+    "PineJS",
+    "PineCSS",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "homepage": "http://pinecss.com",
+  "authors": [
+    {
+      "name": "Savaş Can ALTUN",
+      "email": "savascanaltun@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/pineCSS/pine/issues"
+  },
+  "license": "MIT"
+
+  
+}
