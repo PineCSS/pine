@@ -15,7 +15,7 @@ Daha hızlı bir pine için sıkıştırılmışını terci edebilirsiniz.
 <link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.min.css"/>
 ```
 
-Javascript Kütüphanesini altta ki şekilde adhil edebilirsiniz.
+Javascript Kütüphanesini altta ki şekilde dahil edebilirsiniz.
 ``` html
 <link rel="stylesheet" href="http://pinecss.com/v/2.0/pine.js"/>
 ```
